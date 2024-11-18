@@ -40,7 +40,7 @@ The model was trained to identify six different types of metal surface defects a
    ```
    git clone https://github.com/Al-Dhaheri/Image-Classification-Using-Vision-transformer
    ```
-2. **Make sure to Install dependencies**:
+2. **Make sure to Install dependencies**
 
 3. **Run the Jupyter notebook** (`image_classifier_from_scratch.ipynb`) on your local environment.
    - Ensure that the dataset path is correctly set in the notebook.
